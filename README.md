@@ -1,2 +1,2 @@
-# bagatelle
+# Bagatelle
 Site vitrine de Bagatelle.
